@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/booklib
+/booklib2
 
 # testing
 /coverage
